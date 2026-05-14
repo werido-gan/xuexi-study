@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778663209623-ybesxvxj7",
+  "providerId": "claude",
+  "title": "Greet in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778663209624,
+  "updatedAt": 1778664439595,
+  "lastResponseAt": 1778664439595,
+  "sessionId": "e890d846-aff7-46a1-be01-09a6277e73c2",
+  "providerState": {
+    "providerSessionId": "e890d846-aff7-46a1-be01-09a6277e73c2"
+  },
+  "currentNote": "gan/编程语言/Python/第二部分：Python 进阶/第8章：模块与包.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 73,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 107648,
+    "contextWindow": 1000000,
+    "contextTokens": 107721,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
