@@ -1,11 +1,23 @@
 {
   "id": "conv-1775557880370-zucx45n7i",
   "providerId": "claude",
-  "title": "你好",
-  "titleGenerationStatus": "failed",
+  "title": "Greet in Chinese",
+  "titleGenerationStatus": "success",
   "createdAt": 1775557880374,
-  "updatedAt": 1778662751612,
-  "lastResponseAt": 1778662737040,
-  "sessionId": null,
-  "providerState": {}
+  "updatedAt": 1783473934799,
+  "lastResponseAt": 1783473934799,
+  "sessionId": "bc153c8e-1c89-4263-85d5-8104bae5a76c",
+  "providerState": {
+    "providerSessionId": "bc153c8e-1c89-4263-85d5-8104bae5a76c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 40,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 139904,
+    "contextWindow": 1000000,
+    "contextTokens": 139944,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
 }
